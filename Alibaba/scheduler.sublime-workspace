@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qual",
+				"qual_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Java.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"ISO"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"ISO"
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				"ISO"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"RUN",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"SUBPYTH",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/KingLulu/Documents/GitHub/scheduler"
+	],
+	"file_history":
+	[
+		"/C/Users/KingLulu/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-build",
+		"/C/Users/KingLulu/Desktop/Alibaba/AlibabaSchedulerEvaluatorRun_20180709.java",
+		"/C/Users/KingLulu/AppData/Roaming/Sublime Text 3/Packages/User/New Text Document.txt",
+		"/C/Users/KingLulu/Desktop/Alibaba/scheduling_preliminary_a_submit_sample_20180710.csv",
+		"/C/Users/KingLulu/Desktop/Alibaba/scheduling_preliminary_a_machine_resources_20180606.csv",
+		"/C/Users/KingLulu/Desktop/Alibaba/scheduling_preliminary_a_instance_deploy_20180606.csv",
+		"/C/Users/KingLulu/Desktop/Alibaba/scheduling_preliminary_a_app_resources_20180606.csv",
+		"/C/Users/KingLulu/Desktop/Alibaba/scheduling_preliminary_a_app_interference_20180606.csv",
+		"/C/Users/KingLulu/Desktop/AlibabaSchedulerEvaluatorRun_20180709.java",
+		"/C/Users/KingLulu/AppData/Local/Temp/HZ$D.190.4523/HZ$D.190.4524/HS106020086_王姐（待看设计）   3.6日/看设计时请客人选20x24工艺油画，之前漏选.txt",
+		"/D/HOC/Folderlocker.bat",
+		"/D/HOC/HH/qk/~uTorrentPartFile_10337B950.dat",
+		"/E/Dicom/PAT0/STUDY0/SERIES0/IM0",
+		"/C/Users/KingLulu/Documents/WeChat Files/swingxzace/Files/ID.txt",
+		"/C/Users/KingLulu/Desktop/ID.txt",
+		"/D/HOC/HH/PlayHome/readme.txt",
+		"/F/hongbao.txt",
+		"/C/Users/KingLulu/AppData/Roaming/2345MiniPage/minipage.dat",
+		"/C/Users/KingLulu/AppData/Roaming/iosconfig.dat",
+		"/D/HOC/HH/hg/4_Chs_new/美少女万华镜4—罪与罚的少女/GameData_/System/config.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/KingLulu/Desktop/test.py",
+		"/C/Users/KingLulu/Desktop/question.txt",
+		"/C/Users/KingLulu/AppData/Local/Temp/HZ$D.144.1887/HZ$D.144.1888/PHWideSlider_0.2.2/readme.txt",
+		"/D/HOC/PlayHome/HoneyPot/HoneyPotInspector.txt",
+		"/C/Users/KingLulu/AppData/Local/Temp/HZ$D.538.2087/HZ$D.538.2088/20170423Saw2008 61-70/使用方法：复制并覆盖同名abdata文件夹.txt",
+		"/D/HOC/PlayHome/readme.txt",
+		"/D/HOC/PlayHome/Patch/AllInOne/安装方法(重要).txt",
+		"/D/HOC/PH 人物檔/人物檔合集/裝飾 MOD/眼瞳增強MOD/ReadMe.txt",
+		"/D/HOC/PH漢化解碼/PlayHome正式版1.4完全汉化ver4.1/readme.txt",
+		"/C/Users/KingLulu/AppData/Roaming/Sublime Text 3/Packages/Super Calculator/Super Calculator.sublime-settings",
+		"/C/Users/KingLulu/AppData/Roaming/Sublime Text 3/Packages/User/Super Calculator.sublime-settings",
+		"/C/Users/KingLulu/Desktop/1.3",
+		"/C/Users/KingLulu/Desktop/1.2",
+		"/C/Users/KingLulu/Desktop/hosts",
+		"/C/Users/KingLulu/Desktop/Removed Apps.html",
+		"/C/Users/KingLulu/Desktop/nyfedit7/密码大全.txt",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/SaveData/GameData/System/config.txt",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/SaveData/SavePath.txt",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/cndata.dat",
+		"/C/Users/KingLulu/Documents/旤彮彈枩壺嬀俁/SaveData/SystemData.dat",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/SaveData/SystemData.dat",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/config.dat",
+		"/D/HOC/hg/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち- [汉化硬盘版]/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち-/补丁说明.txt",
+		"/D/HOC/hg/美少女万華鏡 -神が造りたもうた少女たち-/补丁说明.txt",
+		"/D/HOC/hg/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち- [汉化硬盘版]/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち-/SaveData/SavePath.txt",
+		"/D/HOC/hg/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち- [汉化硬盘版]/[150327][ωstar]美少女万華鏡 -神が造りたもうた少女たち-/readme.txt",
+		"/D/HOC/hg/4_Chs_new/美少女万华镜4—罪与罚的少女/SaveData/SavePath.txt",
+		"/D/HOC/hg/4_Chs_new/美少女万华镜4—罪与罚的少女/GameData/System/config.txt",
+		"/C/Users/KingLulu/Desktop/proxy.notes",
+		"/C/Users/KingLulu/Desktop/密码大全.txt",
+		"/C/Users/KingLulu/Desktop/resume.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"your",
+			"hardware",
+			"–",
+			"nh",
+			"KMVR",
+			"★★★KMVR",
+			"KMVR",
+			"WPVR0",
+			"WPVR",
+			"TMAVR",
+			"MDVR",
+			"VOVS",
+			"WPVR",
+			"AVVR",
+			"DSVR",
+			"ETVCO",
+			"PRDVR",
+			"SIVR",
+			"VRTM",
+			"BMVR",
+			"\\t",
+			"\\n",
+			"\\t",
+			"t",
+			"AVOPVR",
+			"WPVR",
+			"CRVR",
+			"Avvr",
+			"-01",
+			"000",
+			"3DSVR",
+			"-01",
+			"DSVR",
+			"EXVR",
+			"KOLVR",
+			"TMAVR",
+			"Vovs",
+			"BMVR",
+			"VRTM",
+			"6",
+			"3",
+			"\t",
+			" ",
+			"save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 327.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "scheduler.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
