@@ -9,7 +9,7 @@ public class Machine{
     private int pmLimit;
 
 
-    protected void create(int i, int c, int m, int d, int pl, int ml, int pml){
+    protected void init(int i, int c, int m, int d, int pl, int ml, int pml){
         id       = i;
         cpu      = c;
         mem      = m;
@@ -21,7 +21,7 @@ public class Machine{
 
     public static void main(String[] args){
         Machine ma = new Machine();
-        ma.create(1,2,3,4,5,6,7);
+        ma.init(1,2,3,4,5,6,7);
         System.out.println(ma.id);
     }
 }
